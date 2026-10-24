@@ -8,7 +8,7 @@ Welcome to our team submission for the STAC WARS Hackathon! This repository cont
 ## 📂 Team Submissions Breakdown
 
 ### ☀️ Problem Statement 2: Solar Radiation Analysis and Prediction
-- **Folder:** [`/PS2_Solar_Radiation`](./PS2_Solar_Radiation)
+- **Folder:** [`/PS2_Solar_Radiation`](./PS2_Solar_Radiation_Analysis)
 - **Primary Notebook:** `solar_radiation_analysis.ipynb`
 - **Report:** `solar_radiation_report.pdf`
 - **Key Findings:**
